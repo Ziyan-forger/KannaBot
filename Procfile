@@ -1,1 +1,1 @@
-web: pm2
+web: node . --server
