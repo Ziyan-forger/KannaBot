@@ -11,7 +11,7 @@
 // • The.Sad.Boy01
 // • Rasel comel
 // • Xtreshe (Beban)
-// • Dll
+// • Zynn (Beban)
 
 //[!] Jangan Dihapus, mending ditambahin 
 
@@ -146,7 +146,7 @@ global.drtf = 'text/rtf'
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 /*=========== FAKE SIZE ===========*/
-global.fsizedoc = '99999999999999' // default 10TB
+global.fsizedoc = '99999999999999' // default 99PB
 global.fpagedoc = '999'
 
 /*=========== HIASAN ===========*/
